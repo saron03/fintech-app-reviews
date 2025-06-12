@@ -36,21 +36,6 @@ The project simulates a real-world consulting task at Omega Consultancy, focusin
 3. Dropped rows with missing review text or rating.
 4. Normalized date format to `YYYY-MM-DD`.
 5. Saved the cleaned data into a single CSV file (`cleaned_reviews.csv`).
-
----
-
-## Repository Structure
-
-    ├── .gitignore
-    ├── requirements.txt
-    ├── README.md
-    ├── task_1/
-    │ ├── scrape_reviews.py
-    │ └── preprocess_reviews.py
-    ├── data/
-    │ └── cleaned_reviews.csv
-
-
 ---
 
 ## Branching Strategy
